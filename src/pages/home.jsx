@@ -31,17 +31,17 @@ const Home = () => {
           {/* Column 1 */}
           <div className="flex flex-col gap-5">
             <img
-              src="../../public/img1.png"
+              src="https://res.cloudinary.com/dti5em2nu/image/upload/v1732623785/fk8ncwmkf3rotuzbtls5.png"
               alt=""
               className="rounded-2xl"
             />
             <img
-              src="../../public/img6.png"
+              src="https://res.cloudinary.com/dti5em2nu/image/upload/v1732624217/qsj2owleftlpsvily0wp.jpg"
               alt=""
               className="rounded-2xl"
             />
             <img
-              src="../../public/img8.png"
+              src="https://res.cloudinary.com/dti5em2nu/image/upload/v1732624146/dcz501e2ynze9d7nag8u.jpg"
               alt=""
               className="rounded-2xl"
             />
@@ -50,17 +50,17 @@ const Home = () => {
           {/* Column 2 */}
           <div className="flex flex-col gap-5">
             <img
-              src="../../public/img4.png"
+              src="https://res.cloudinary.com/dti5em2nu/image/upload/v1732623858/v3mmldyq4ftluqe8ordz.png"
               alt=""
               className="rounded-2xl"
             />
             <img
-              src="../../public/img2.png"
+              src="https://res.cloudinary.com/dti5em2nu/image/upload/v1732623858/spzqzxqyeasiyesckpqc.png"
               alt=""
               className="rounded-2xl"
             />
             <img
-              src="../../public/img3.png"
+              src="https://res.cloudinary.com/dti5em2nu/image/upload/v1732623859/dc2b7rppjiux6xynm76o.png"
               alt=""
               className="rounded-2xl"
             />
@@ -69,12 +69,12 @@ const Home = () => {
           {/* Column 3 */}
           <div className="flex flex-col gap-5">
             <img
-              src="../../public/img5.png"
+              src="https://res.cloudinary.com/dti5em2nu/image/upload/v1732624281/cbqbx4lq9dkxxmhh6lju.jpg"
               alt=""
               className="rounded-2xl"
             />
             <img
-              src="../../public/img7.png"
+              src="https://res.cloudinary.com/dti5em2nu/image/upload/v1732624280/ltjbtoadc5amn0kbzmw5.jpg"
               alt=""
               className="rounded-2xl"
             />

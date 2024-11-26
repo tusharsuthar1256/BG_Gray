@@ -1,9 +1,8 @@
-// firebase.js
 import { initializeApp } from "firebase/app";
 import { getAuth, GoogleAuthProvider, signInWithPopup, signOut } from "firebase/auth";
 
 // Your Firebase configuration
-const firebaseConfig = {
+export const firebaseConfig = {
      apiKey: import.meta.env.VITE_GOOGLE_AUTH_API_KEY,
      authDomain: import.meta.env.VITE_GOOGLE_AUTH_AUTHDOMAIN,
      projectId: import.meta.env.VITE_GOOGLE_AUTH_PROJECT_ID,
