@@ -63,5 +63,21 @@ The **Image Background Customizer** is a React web application that allows users
 ## Screenshot
 
 **Image Background Customizer in Action**  
-![App Screenshot](assets/screenshot.png)
+</br>
+**Home Page -->**
+<img src="https://res.cloudinary.com/dti5em2nu/image/upload/v1732639573/gcv95rz6usojnjpm1bhf.png">
+</br>
+</br>
+</br>
+**Sign up with google -->**
+</br>
+</br>
+<img src="https://res.cloudinary.com/dti5em2nu/image/upload/v1732639674/dichv6xbcylmsonjhhhw.png" >
+</br>
+</br>
+</br>
+**Editior where you customize your image nad process it -->**
+</br>
+</br>
+<img src="https://res.cloudinary.com/dti5em2nu/image/upload/v1732639772/kpgmnmmsnrhntuaxkdhg.png" >
 
